@@ -25,7 +25,7 @@ export default class WriteStoryScr extends React.Component{
           author: "",
           story: ""
       })
-      alert('Story Submitted Successfully ✅✅');
+      Alert.alert('Story Submitted Successfully ✅✅');
   }
     
     render(){
